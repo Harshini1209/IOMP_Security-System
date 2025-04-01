@@ -12,8 +12,8 @@ CORS(app)
 # Initialize face recognition system
 face_system = FaceRecognitionSystem(
     dataset_path="dataset_family/",
-    sender_email="gaddamlokesh20@gmail.com",
-    recipient_email="rishikabussa31@gmail.com",
+    sender_email="harshh143lub@gmail.com",
+    recipient_email="hamari.22pro@gmail.com",
     email_password="fewb zzgt kufv bpep"
 )
 
